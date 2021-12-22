@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  color:cornflowerblue;
+  background-repeat:no-repeat;
+
+}
+
+table {
+  margin: 0 auto;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+
